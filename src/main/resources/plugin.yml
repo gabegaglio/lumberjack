@@ -1,0 +1,8 @@
+name: Lumberjack
+version: 1.0
+main: me.org.lumberjack.Lumberjack
+api-version: 1.21
+commands:
+  lumberjack:
+    description: Enable or disable Lumberjack
+    usage: /lumberjack <enable|disable>
